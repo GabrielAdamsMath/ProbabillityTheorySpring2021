@@ -1,7 +1,15 @@
 # ProbabillityTheorySpring2021
-Various coding projects and exampes for probabillity theory.
+Various coding projects and exampes for probabillity theory. Newest code will be described first
 
-To run this you will need python3 installed.
+To run anything in this you will need python3 installed. In general to run a python file type python3 FileName.py on your command line in the directory that you have python installed at.
+
+###ProbTheoryHW3#2.py
+Run as usual
+
+###MontyCards.py
+
+This was heuristical analysis of why the Monty Hall and Monty Fall problems are different
+
 Type python3 MontyCards.py on the command line while in the directory that you have placed MontyCards.py
 Remember that you can change directories on the command line with cd <directory>
 
