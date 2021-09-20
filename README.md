@@ -3,15 +3,15 @@ Various coding projects and exampes for probabillity theory. Newest code will be
 
 To run anything in this you will need python3 installed. In general to run a python file type python3 FileName.py on your command line in the directory that you have python installed at.
 
-###ProbTheoryHW3#5.py
+### ProbTheoryHW3#5.py
 Run as usual.
 
 Around 120 is where things start to get reasonable. You need to pick at least 85 for the number of fish.
 
-###ProbTheoryHW3#2.py
+### ProbTheoryHW3#2.py
 Run as usual
 
-###MontyCards.py
+### MontyCards.py
 
 This was heuristical analysis of why the Monty Hall and Monty Fall problems are different
 
